@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ProjetPress.Properties
+namespace ProjetCsharp.Properties
 {
 
 
